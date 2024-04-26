@@ -1,0 +1,13 @@
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\bin\Debug\Gestion_restaurant.exe
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\bin\Debug\Gestion_restaurant.pdb
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.csprojResolveAssemblyReference.cache
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.MainForm.resources
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.csproj.GenerateResource.Cache
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.exe
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.pdb
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.FormAdministrateur.resources
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.FormChef.resources
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.FormRestaurateur.resources
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.FormCommande1.resources
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.FormPaiement.resources
+C:\Users\fallt\Desktop\M1-ISI-22-23\Sem 2\C#\Gestion_restaurant\Gestion_restaurant\obj\Debug\Gestion_restaurant.FormRecette.resources
